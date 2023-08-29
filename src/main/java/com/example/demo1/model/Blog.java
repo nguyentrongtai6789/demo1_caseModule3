@@ -5,4 +5,5 @@ public class Blog {
     private String abc;
     private int id;
     private int id2;
+    private String email;
 }
